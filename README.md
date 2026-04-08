@@ -222,8 +222,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Sehaj Makkar**
-- GitHub: [@sehajmakkar](https://github.com/sehajmakkar)
+**Ram Katara**
+- GitHub: [@Ram katara](https://github.com/Ramkatara111)
 
 ## 🙏 Acknowledgments
 
