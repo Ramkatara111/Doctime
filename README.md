@@ -230,6 +230,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the healthcare professionals who provided insights for the user experience
 - Built with modern web technologies and best practices
 
----
-
 For more information, please contact the development team or check the individual README files in each directory for specific setup instructions.
